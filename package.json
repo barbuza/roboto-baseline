@@ -1,0 +1,21 @@
+{
+  "name": "baseline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Kotseruba <barbuzaster@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer-loader": "^1.1.0",
+    "css-loader": "^0.9.1",
+    "nib": "^1.0.4",
+    "style-loader": "^0.8.3",
+    "stylus": "^0.49.3",
+    "stylus-loader": "^0.5.0",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.7.0"
+  }
+}
